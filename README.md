@@ -11,6 +11,6 @@ such as PySerial, OpenCV, and more. Other than that, I enjoy mathematics, physic
 # 📣 Socials:<br />
 🐦 Twitter: https://twitter.com/DurpyBanana_/ <br />
 📷 Instagram: https://www.instagram.com/durpy._.banana <br />
-📜 LinkedIn: https://www.linkedin.com/in/mostafa-hussein-2004/ <br />
-💬 Discord: 3G9-AbuBatikha#7541 <br /><br /><br /><br />
+📜 LinkedIn: https://www.linkedin.com/in/mostafa-hussein-2004/ <br /><br /><br />
+
 Resoruce used: https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7
