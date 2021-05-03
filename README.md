@@ -13,4 +13,3 @@ such as PySerial, OpenCV, and more. Other than that, I enjoy mathematics, physic
 📷 Instagram: https://www.instagram.com/durpy._.banana <br />
 📜 LinkedIn: https://www.linkedin.com/in/mostafa-hussein-2004/ <br /><br /><br />
 
-Resoruce used: https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7
