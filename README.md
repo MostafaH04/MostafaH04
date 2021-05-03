@@ -11,5 +11,5 @@ such as PySerial, OpenCV, and more. Other than that, I enjoy mathematics, physic
 # 📣 Socials:<br />
 🐦 Twitter: https://twitter.com/DurpyBanana_/ <br />
 📷 Instagram: https://www.instagram.com/durpy._.banana <br />
-📜 LinkedIn: https://www.linkedin.com/in/mostafa-hussein-2004/ <br /><br /><br />
+📜 LinkedIn: https://www.linkedin.com/in/mostafa-hussein-2004/ <br />
 
