@@ -5,7 +5,7 @@
 
 I am Mostafa Hussein, I have a passion for engineering, coding, working with hardware. To add on, I mainly enjoy using Arduino, 
 making circuits, coding fun games (using Unity mainly), and recently I picked up the basics of python. Currently, I am exploring a few python libraries, 
-such as PySerial, OpenCV, and more. Other than that, I enjoy mathematics, physics, computer science, and computer engineering!
+such as PyFirmata, OpenCV, tensorflow, and more. Other than that, I enjoy mathematics, physics, computer science, and computer engineering!
 
 
 # 📣 Socials:<br />
