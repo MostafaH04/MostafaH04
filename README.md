@@ -11,7 +11,3 @@ such as PyFirmata, OpenCV, tensorflow, and more. Other than that, I enjoy mathem
 🐦 Twitter: https://twitter.com/DurpyBanana_/ <br />
 📷 Instagram: https://www.instagram.com/durpy._.banana <br />
 📜 LinkedIn: https://www.linkedin.com/in/mostafa-hussein-2004/ <br />
-
-- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
-- ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `#c5f015`
-- ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `#1589F0`
