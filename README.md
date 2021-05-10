@@ -5,7 +5,7 @@ making circuits, and coding . Currently, I am exploring a few python libraries,
 such as PyFirmata, OpenCV, tensorflow, and more. Other than that, I enjoy mathematics, physics, computer science, and computer engineering!
 
 [![MostafaH04's GitHub stats](https://github-readme-stats.vercel.app/api?username=MostafaH04&theme=tokyonight&hide=prs,issues&hide_border=true&border_radius=0&count_private=true)](https://github.com/MostafaH04)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaH04)](https://github.com/MostafaH04)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaH04?hide=processing)](https://github.com/MostafaH04)
 
 # 📣 Socials:<br />
 🐦 Twitter: https://twitter.com/DurpyBanana_/ <br />
