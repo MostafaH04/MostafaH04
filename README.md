@@ -9,6 +9,7 @@ such as PyFirmata, OpenCV, tensorflow, and more. Other than that, I enjoy mathem
 <br/>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MostafaH04&repo=MagicMouse-HTN2021&theme=radical&hide_border=true&border_radius=0)](https://github.com/MostafaH04/MagicMouse-HTN2021)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MostafaH04&repo=BatikhaOS&theme=radical&hide_border=true&border_radius=0)](https://github.com/MostafaH04/BatikhaOS)
 
 # 📣 Socials:<br />
 🐦 Twitter: https://twitter.com/DurpyBanana_/ <br />
