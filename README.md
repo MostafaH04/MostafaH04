@@ -9,9 +9,9 @@ such as PyFirmata, OpenCV, tensorflow, and more. Other than that, I enjoy mathem
 <br/>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MostafaH04&repo=MagicMouse-HTN2021&theme=tokyonight&border_color=4a81ff&border_radius=10)](https://github.com/MostafaH04/MagicMouse-HTN2021)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MostafaH04&repo=BatikhaOS&theme=tokyonight&border_radius=10)](https://github.com/MostafaH04/BatikhaOS)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MostafaH04&repo=Introductory-OpenCV-Projects&theme=tokyonight&border_radius=10)](https://github.com/MostafaH04/Introductory-OpenCV-Projects)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MostafaH04&repo=HandLEDS&theme=tokyonight&border_radius=10)](https://github.com/MostafaH04/HandLEDS)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MostafaH04&repo=BatikhaOS&theme=tokyonight&border_radius=10&border_color=4a81ff)](https://github.com/MostafaH04/BatikhaOS)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MostafaH04&repo=Introductory-OpenCV-Projects&theme=tokyonight&border_radius=10&border_color=4a81ff)](https://github.com/MostafaH04/Introductory-OpenCV-Projects)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MostafaH04&repo=HandLEDS&theme=tokyonight&border_radius=10&border_color=4a81ff)](https://github.com/MostafaH04/HandLEDS)
 
 # 📣 Socials:<br />
 🐦 Twitter: https://twitter.com/DurpyBanana_/ <br />
