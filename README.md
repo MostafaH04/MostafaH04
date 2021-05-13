@@ -1,3 +1,4 @@
+![Banner](https://media.discordapp.net/attachments/388874244102160385/842273181763108874/unknown.png?width=1440&height=376)
 # 😎 Hey!<br />
 
 I am Mostafa Hussein, I have a passion for engineering, coding, working with hardware. To add on, I mainly enjoy using Arduino, 
