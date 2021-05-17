@@ -16,7 +16,8 @@ working on my personal website, and trying to participate in more hackathons. Ot
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MostafaH04&repo=HandLEDS&theme=tokyonight&border_radius=0&border_color=4a81ff)](https://github.com/MostafaH04/HandLEDS)
 
 
-# 📣 Socials:<br />
+# 🔗 Links:<br />
 🐦 Twitter: https://twitter.com/DurpyBanana_/ <br />
 📷 Instagram: https://www.instagram.com/durpy._.banana <br />
 📜 LinkedIn: https://www.linkedin.com/in/mostafa-hussein-2004/ <br />
+📝 Resume: [Resume](https://drive.google.com/file/d/19N-_-ntMU9VlDYfhyxQI50Ng4TWxmAc7/view?usp=sharing)
