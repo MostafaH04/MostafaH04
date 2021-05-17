@@ -15,7 +15,7 @@ such as PyFirmata, OpenCV, tensorflow, and more. Other than that, I enjoy mathem
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MostafaH04&repo=Introductory-OpenCV-Projects&theme=tokyonight&border_radius=0&border_color=4a81ff)](https://github.com/MostafaH04/Introductory-OpenCV-Projects)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MostafaH04&repo=HandLEDS&theme=tokyonight&border_radius=0&border_color=4a81ff)](https://github.com/MostafaH04/HandLEDS)
 
--[ ] s
+- [ ] s
 
 # 📣 Socials:<br />
 🐦 Twitter: https://twitter.com/DurpyBanana_/ <br />
