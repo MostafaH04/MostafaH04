@@ -20,4 +20,4 @@ working on my personal website, and trying to participate in more hackathons. Ot
 🐦 Twitter: https://twitter.com/DurpyBanana_/ <br />
 📷 Instagram: https://www.instagram.com/durpy._.banana <br />
 📜 LinkedIn: https://www.linkedin.com/in/mostafa-hussein-2004/ <br />
-📝 [Resume](https://drive.google.com/file/d/19N-_-ntMU9VlDYfhyxQI50Ng4TWxmAc7/view?usp=sharing)
+📝 [Resume](https://drive.google.com/file/d/1a3I1CHtxwZnfcyMbPvrXwMktkEdkgcpv/view?usp=sharing)
