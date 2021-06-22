@@ -1,7 +1,7 @@
 [![Banner](https://media.discordapp.net/attachments/388874244102160385/842273181763108874/unknown.png?width=1440&height=376)](https://mostafah04.github.io/)
 # 😎 Hey!<br />
 
-I am Mostafa Hussein, I have a passion for engineering, coding, working with hardware. To add on, I mainly enjoy using Arduino, 
+I am Mostafa Hussein, I have a passion for engineering, coding, and working with hardware. To add on, I mainly enjoy using Arduino, 
 making circuits, and coding. Currently, I am exploring a few python libraries, 
 working on my personal website, and trying to participate in more hackathons. Other than that, I enjoy mathematics, physics, computer science, and computer engineering. <br/><br/>
 
