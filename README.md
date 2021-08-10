@@ -14,6 +14,9 @@ working on my personal website, and trying to participate in more hackathons. Ot
 <br/><br/>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MostafaH04&repo=JamHacks-Work-Flow&theme=tokyonight&border_radius=0&border_color=4a81ff)](https://github.com/MostafaH04/JamHacks-Work-Flow)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MostafaH04&repo=Monkey-Host&theme=tokyonight&border_radius=0&border_color=4a81ff)](https://github.com/MostafaH04/Monkey-Host)
+<br/><br/>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MostafaH04&repo=JamHacks-Work-Flow&theme=tokyonight&border_radius=0&border_color=4a81ff)](https://github.com/MostafaH04/Chess)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MostafaH04&repo=JamHacks-Work-Flow&theme=tokyonight&border_radius=0&border_color=4a81ff)](https://github.com/MostafaH04/ICS3U0-Course)
 
 
 # 🔗 Links:<br />
