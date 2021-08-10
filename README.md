@@ -16,7 +16,7 @@ working on my personal website, and trying to participate in more hackathons. Ot
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MostafaH04&repo=Monkey-Host&theme=tokyonight&border_radius=0&border_color=4a81ff)](https://github.com/MostafaH04/Monkey-Host)
 <br/><br/>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MostafaH04&repo=Chess&theme=tokyonight&border_radius=0&border_color=4a81ff)](https://github.com/MostafaH04/Chess)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MostafaH04&repo=ICS3U0&theme=tokyonight&border_radius=0&border_color=4a81ff)](https://github.com/MostafaH04/ICS3U0-Course)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MostafaH04&repo=ICS3U0-Course&theme=tokyonight&border_radius=0&border_color=4a81ff)](https://github.com/MostafaH04/ICS3U0-Course)
 
 
 # 🔗 Links:<br />
