@@ -9,7 +9,7 @@ working on my personal website, and trying to participate in more hackathons. Ot
 [![MostafaH04's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaH04&hide=Processing&layout=compact&theme=tokyonight&hide_border=true&border_radius=0&card_width=300)](https://github.com/MostafaH04)
 <br/><br/>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MostafaH04&repo=MagicMouse-HTN2021&theme=tokyonight&border_color=4a81ff&border_radius=0)](https://github.com/MostafaH04/MagicMouse-HTN2021)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MostafaH04&repo=MagicMouse-HTN2020&theme=tokyonight&border_color=4a81ff&border_radius=0)](https://github.com/MostafaH04/MagicMouse-HTN2020)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MostafaH04&repo=ReBug-HTN-2021&theme=tokyonight&border_radius=0&border_color=4a81ff)](https://github.com/MostafaH04/ReBug-HTN-2021)
 <br/><br/>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MostafaH04&repo=JamHacks-Work-Flow&theme=tokyonight&border_radius=0&border_color=4a81ff)](https://github.com/MostafaH04/JamHacks-Work-Flow)
