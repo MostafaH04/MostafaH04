@@ -20,6 +20,6 @@ working on my personal website, and trying to participate in more hackathons. Ot
 
 
 # 🔗 Links:<br />
-📷 Instagram: https://www.instagram.com/durpy._.banana <br />
-📜 LinkedIn: https://www.linkedin.com/in/mostafa-hussein-04/ <br />
+📷 [Instagram](https://www.instagram.com/durpy._.banana) <br />
+📜 [LinkedIn:](https://www.linkedin.com/in/mostafa-hussein-04/) <br />
 📝 [Resume](https://drive.google.com/file/d/1a3I1CHtxwZnfcyMbPvrXwMktkEdkgcpv/view?usp=sharing)
