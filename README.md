@@ -1,7 +1,7 @@
 ![Banner](https://media.discordapp.net/attachments/388874244102160385/842273181763108874/unknown.png?width=1440&height=376)
 # 😎 Hey!<br />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MostafaH04&label=Profile%20views&color=2e24bd&style=for-the-badge" alt="MostafaH04" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MostafaH04&label=Profile%20views&color=2e24bd" alt="MostafaH04" /> </p>
 I am Mostafa Hussein, I have a passion for engineering, coding, and working with hardware. To add on, I mainly enjoy using Arduino, 
 making circuits, and coding. Currently, I am exploring a few python libraries, 
 improving my js skills, and trying to participate in more hackathons. Other than that, I enjoy mathematics, physics, computer science, and computer engineering. <br/><br/>
