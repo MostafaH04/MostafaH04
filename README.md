@@ -7,7 +7,7 @@ making circuits, and coding. Currently, I am exploring a few python libraries,
 improving my js skills, and trying to participate in more hackathons. Other than that, I enjoy mathematics, physics, computer science, and computer engineering. <br/><br/>
 
 [![MostafaH04's GitHub stats](https://github-readme-stats.vercel.app/api?username=MostafaH04&include_all_commits=true&theme=tokyonight&hide=prs,issues&hide_border=true&border_radius=0&count_private=true)](https://github.com/MostafaH04)
-[![MostafaH04's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaH04&hide=Processing&layout=compact&theme=tokyonight&hide_border=true&border_radius=0&card_width=300)](https://github.com/MostafaH04)
+[![MostafaH04's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaH04&hide=Processing&layout=compact&theme=tokyonight&hide_border=true&border_radius=0&card_width=250)](https://github.com/MostafaH04)
 <br/><br/>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MostafaH04&repo=MagicMouse-HTN2020&theme=tokyonight&border_color=4a81ff&border_radius=0)](https://github.com/MostafaH04/MagicMouse-HTN2020)
