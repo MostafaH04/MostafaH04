@@ -2,8 +2,7 @@
 <h1 align = "center"> 😎 Hey, I am Mostafa!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MostafaH04&label=Profile%20views&color=2e24bd&style=for-the-badge" alt="MostafaH04" /> </p>
 I am an incoming Waterloo Mechatronics Engineering students with a passion for robotics, space exploration and automous systems. In my free time, I am currently looking for new oppurtunites to improve and gain new skills! Other than that, I find myself enjoying articles or videos on concepts in math, physics and computer science.<br/><br/>
-
-[![MostafaH04's GitHub stats](https://github-readme-stats.vercel.app/api?username=MostafaH04&include_all_commits=true&theme=tokyonight&hide_border=true&border_radius=0&count_private=true)](https://github.com/MostafaH04)
+username=MostafaH04&include_all_commits=true&theme=tokyonight&hide_border=true&border_radius=0&count_private=true)](https://github.com/MostafaH04)
 [![MostafaH04's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaH04&hide=Processing&layout=compact&theme=tokyonight&hide_border=true&border_radius=0&card_width=250)](https://github.com/MostafaH04)
 <br/><br/>
 
