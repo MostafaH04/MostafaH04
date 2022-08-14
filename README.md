@@ -17,6 +17,5 @@ I am an incoming Waterloo Mechatronics Engineering students with a passion for r
 
 
 # 🔗 Links:<br />
-📷 [Instagram](https://www.instagram.com/durpy._.banana) <br />
 📜 [LinkedIn](https://www.linkedin.com/in/mostafa-hussein-04/) <br />
 📝 [Resume](https://drive.google.com/file/d/1a3I1CHtxwZnfcyMbPvrXwMktkEdkgcpv/view?usp=sharing)
