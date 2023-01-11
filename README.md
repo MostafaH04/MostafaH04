@@ -1,4 +1,4 @@
-[![Banner](https://media.discordapp.net/attachments/388874244102160385/842273181763108874/unknown.png?width=1440&height=376)](https://mostafah04.github.io)
+[![Banner](https://media.discordapp.net/attachments/388874244102160385/1062597352210305094/image.png)](https://mostafah04.github.io)
 <h1 align = "center">Hey, I am Mostafa!</h1>
 I am a 1B Waterloo Mechatronics Engineering student with a passion for robotics, space exploration and automous systems. In my free time, I am currently looking for new oppurtunites to improve and gain new skills! Other than that, I find myself enjoying articles or videos on interesting concepts in math, physics and computing.<br/><br/>
 
