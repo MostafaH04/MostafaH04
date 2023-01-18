@@ -6,14 +6,14 @@ I am a 1B Waterloo Mechatronics Engineering student with a passion for robotics,
 [![MostafaH04's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaH04&hide=Processing&layout=compact&theme=tokyonight&hide_border=true&border_radius=0&card_width=250)](https://github.com/MostafaH04)
 <br/><br/>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MostafaH04&repo=Chess-Bot&theme=tokyonight&border_color=4a81ff&border_radius=0)](https://github.com/MostafaH04/Chess-Bot)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SiddharthN16&repo=Guber&theme=tokyonight&border_radius=0&border_color=4a81ff)](https://github.com/SiddharthN16/Guber)
+[![Readme Card](https://github-readme-stats.vercel.app/api/?username=MostafaH04&repo=Chess-Bot&theme=tokyonight&border_color=4a81ff&border_radius=0)](https://github.com/MostafaH04/Chess-Bot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/?username=SiddharthN16&repo=Guber&theme=tokyonight&border_radius=0&border_color=4a81ff)](https://github.com/SiddharthN16/Guber)
 <br/><br/>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MostafaH04&repo=V8-Roomba&theme=tokyonight&border_radius=0&border_color=4a81ff)](https://github.com/MostafaH04/V8-Roomba)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MostafaH04&repo=Neighborhood-Hacks-Mask-On&theme=tokyonight&border_radius=0&border_color=4a81ff)](https://github.com/MostafaH04/Neighborhood-Hacks-Mask-On)
+[![Readme Card](https://github-readme-stats.vercel.app/api/?username=MostafaH04&repo=V8-Roomba&theme=tokyonight&border_radius=0&border_color=4a81ff)](https://github.com/MostafaH04/V8-Roomba)
+[![Readme Card](https://github-readme-stats.vercel.app/api/?username=MostafaH04&repo=Neighborhood-Hacks-Mask-On&theme=tokyonight&border_radius=0&border_color=4a81ff)](https://github.com/MostafaH04/Neighborhood-Hacks-Mask-On)
 <br/><br/>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MostafaH04&repo=Chess&theme=tokyonight&border_radius=0&border_color=4a81ff)](https://github.com/MostafaH04/Chess)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MostafaH04&repo=Me-Check&theme=tokyonight&border_radius=0&border_color=4a81ff)](https://github.com/MostafaH04/Me-Check)
+[![Readme Card](https://github-readme-stats.vercel.app/api/?username=MostafaH04&repo=Chess&theme=tokyonight&border_radius=0&border_color=4a81ff)](https://github.com/MostafaH04/Chess)
+[![Readme Card](https://github-readme-stats.vercel.app/api/?username=MostafaH04&repo=Me-Check&theme=tokyonight&border_radius=0&border_color=4a81ff)](https://github.com/MostafaH04/Me-Check)
 
 
 # 🔗 Links:<br />
