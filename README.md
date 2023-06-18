@@ -2,7 +2,7 @@
 
 <h1 align="center">👋 Hey, I'm Mostafa!</h1>
 
-I'm an incoming 2A Mechatronics Engineering student at the University of Waterloo, driven by my passion for robotics, automation, and the endless possibilities they offer. With a keen interest in space exploration and autonomous systems, I am dedicated to one day creating innovative solutions that would shape the future of robotics and automation.
+I'm a 2A Mechatronics Engineering student at the University of Waterloo, driven by my passion for robotics, automation, and the endless possibilities they offer. With a keen interest in space exploration and autonomous systems, I am dedicated to one day creating innovative solutions that would shape the future of robotics and automation.
 
 In my free time, I delve into captivating concepts in math, physics, and computing, constantly fueling my curiosity and expanding my knowledge. As a creative problem solver, I enjoy embracing new challenges and actively seek opportunities to enhance my skills and gain valuable hands-on experience.
 
