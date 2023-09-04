@@ -51,9 +51,9 @@ When I'm not immersed in engineering projects, you can find me pursuing various 
 
 Here are some of the exciting projects I'm currently working on:
 
+- 🧹 Building an autonomous Roomba, applying the concepts learned from the UofT Self Driving Car Specialization to create a smart cleaning solution.
 - 🤖 Developing a 6 DOF robotic arm with a group of friends, exploring advanced control algorithms for precise movements.
 - 🚗 Enrolling in the Coursera - UofT Self Driving Car Specialization to deepen my knowledge of autonomous vehicle technologies.
-- 🧹 Building an autonomous Roomba, applying the concepts learned from the UofT Self Driving Car Specialization to create a smart cleaning solution.
 - 📚 Taking the Northwestern University's Modern Robotics specialization on Coursera, expanding my expertise in the field.
 - 🖨️ Exploring 3D printing: Recently refurbished an old non-functioning Ender 3 printer and am now using it to bring my creative ideas to life.
 
