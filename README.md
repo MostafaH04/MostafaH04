@@ -47,23 +47,7 @@ When I'm not immersed in engineering projects, you can find me pursuing various 
 - 🤖 Working on computer vision and hardware-related projects: Combining my passion for software and hardware to create intelligent systems.
 - 🎾 Playing sports: Tennis, basketball, and swimming are my favorites. I can also hold my own in soccer, even though I'm not the best at it!
 
-## Current Projects 🚀
-
-Here are some of the exciting projects I'm currently working on:
-
-- 🧹 Building an autonomous Roomba, applying the concepts learned from the UofT Self Driving Car Specialization to create a smart cleaning solution.
-- 🤖 Developing a 6 DOF robotic arm with a group of friends, exploring advanced control algorithms for precise movements.
-- 🚗 Enrolling in the Coursera - UofT Self Driving Car Specialization to deepen my knowledge of autonomous vehicle technologies.
-- 📚 Taking the Northwestern University's Modern Robotics specialization on Coursera, expanding my expertise in the field.
-- 🖨️ Exploring 3D printing: Recently refurbished an old non-functioning Ender 3 printer and am now using it to bring my creative ideas to life.
-
-## Languages 🌍
-
-- English (Fluent)
-- Arabic (Native)
-
 ## Links
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mostafa-hussein-04/)
-[![Resume](https://img.shields.io/badge/Resume-View%20Resume-informational?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://drive.google.com/file/d/1a3I1CHtxwZnfcyMbPvrXwMktkEdkgcpv/view?usp=sharing)
 [![Website](https://img.shields.io/badge/Website-Visit%20My%20Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mostafah04.github.io)
