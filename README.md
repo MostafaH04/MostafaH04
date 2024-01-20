@@ -39,13 +39,6 @@ In my free time, I delve into captivating concepts in math, physics, and computi
 
 </div>
 
-## Interests and Hobbies 🎯🏀🔬
-
-When I'm not immersed in engineering projects, you can find me pursuing various interests:
-
-- 🌌 Exploring emerging tech: Fascinated by the latest advancements in robotics, artificial intelligence, and automation.
-- 🤖 Working on computer vision and hardware-related projects: Combining my passion for software and hardware to create intelligent systems.
-- 🎾 Playing sports: Tennis, basketball, and swimming are my favorites. I can also hold my own in soccer, even though I'm not the best at it!
 
 ## Links
 
