@@ -1,4 +1,4 @@
-[![Banner](https://media.discordapp.net/attachments/388874244102160385/1062597352210305094/image.png)](https://mostafah04.github.io)
+[![Banner](https://media.discordapp.net/attachments/1034262061577945100/1282452990845915167/image.png?ex=66df68eb&is=66de176b&hm=7784b94726b28d8f3c6e08e34b6b27d429fa78d4a931d5a7e6fdcc445d8d2d2d&=&format=webp&quality=lossless&width=1440&height=426)](https://mostafah04.github.io)
 
 <h1 align="center">👋 Hey, I'm Mostafa!</h1>
 
