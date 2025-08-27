@@ -1,5 +1,5 @@
-<a href="https://mostafah04.github.io">
-<img width="1794" height="575" alt="image" link="https://mostafah04.github.io" src="https://github.com/user-attachments/assets/54aafc36-f6aa-4759-bf27-477565a6325d" />
+<a href="https://mostafah04.pages.dev">
+<img width="1794" height="575" alt="image" src="https://github.com/user-attachments/assets/54aafc36-f6aa-4759-bf27-477565a6325d" />
 </a>
 
 <h1 align="center">👋 Hey, I'm Mostafa!</h1>
